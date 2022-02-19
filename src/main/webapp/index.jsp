@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! from the charan war application</h2>
+<h2>Hello World! from the charan war application from maven...</h2>
 </body>
 </html>
